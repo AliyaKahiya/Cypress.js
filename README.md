@@ -1,1 +1,1 @@
-# Cypress.js
+Автотесты на Cypress для проверки формы авторизации сайта https://staya.dog/
